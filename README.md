@@ -11,3 +11,7 @@ Pogledaj [Licenca](LICENSE)
 
 ### Osnove Git-a i Github-a
 [Ovdje](https://merlin.srce.hr) možete saznati više o Git tehnologiji.
+
+####
+Moja GitHub Pages stranica
+[Ovdje](https://lovrexd.github.io/hello-world/) možete pristupiti mojoj GitHub Pages stranici.
